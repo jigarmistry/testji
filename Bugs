@@ -1,6 +1,4 @@
-I went through the paper "Symbolic summation with radical expression" 
-and I found myself unable to understand many points due to my 
-insufficient mathematical background which is summarized below: 
+paper: "Symbolic summation with radical expression"
 
 1. Calculus(Single and Multivariable) 
 2. Coordinate Geometry 
@@ -9,21 +7,8 @@ insufficient mathematical background which is summarized below:
 5. Basic Linear Algebra 
 6. Binomial Theorem, Permutation and Combination 
 
-I haven't done any abstract algebra. 
-However, I went through the idea list and found the idea "SYMBOLIC 
-COMPUTATION OF INTEGRALS BY RECURRENCE" interesting. I went through 
-Michael Barnett's paper and it seemed approachable to me with my 
-mathematical background. Also I saw that integration is currently done 
-using Risch-Norman Algorithm, and it needs to be improved. 
 
-
-Is the implementation of this algorithm appropriate as a Summer of 
-code project?  Is my mathematical background enough for the successful 
-execution of this project? 
-
-Regards 
-
--Saurabh Jha 
+ 
 
 
 
